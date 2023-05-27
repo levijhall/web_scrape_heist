@@ -9,7 +9,7 @@ A list of heist movies were gathered from a [Wikipedia page for heist movies](ht
 
 The movie was picked from the top contenders, and what could be watched by every member of the movie group.
 
-A [video was also clipped together](https://www.youtube.com/watch?v=dM35YuKxtG4&t=22s)[explicit] of all instances of "look" for entertainment.
+A [video was also clipped together](https://www.youtube.com/watch?v=dM35YuKxtG4) [explicit] of all instances of "look" for entertainment.
 
 ## Future plans
 
